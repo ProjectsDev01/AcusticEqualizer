@@ -1,0 +1,12 @@
+-----------------------------  Filtr.pjt - Debug  -----------------------------
+[c6713dskinit.c] "C:\CCStudio_v3.3PLA\C6000\cgtools\bin\cl6x" -g -fr"C:/CCStudio_v3.3PLA/Project_EQ/GUI_EQ/Debug/cps1/EQ_projekt/Filtr/Debug" -d"CHIP_6713" --mem_model:data=far -@"../Filtr/Debug.lkf" "c6713dskinit.c"
+
+[Vectors_intr.asm] "C:\CCStudio_v3.3PLA\C6000\cgtools\bin\cl6x" -g -fr"C:/CCStudio_v3.3PLA/Project_EQ/GUI_EQ/Debug/cps1/EQ_projekt/Filtr/Debug" -d"CHIP_6713" --mem_model:data=far -@"../Filtr/Debug.lkf" "Vectors_intr.asm"
+
+[fir2.c] "C:\CCStudio_v3.3PLA\C6000\cgtools\bin\cl6x" -g -fr"C:/CCStudio_v3.3PLA/Project_EQ/GUI_EQ/Debug/cps1/EQ_projekt/Filtr/Debug" -d"CHIP_6713" --mem_model:data=far -@"Debug.lkf" "fir2.c"
+
+[Linking...] "C:\CCStudio_v3.3PLA\C6000\cgtools\bin\cl6x" -@"Debug.lkf"
+<Linking>
+
+Build Complete,
+  0 Errors, 0 Warnings, 0 Remarks.

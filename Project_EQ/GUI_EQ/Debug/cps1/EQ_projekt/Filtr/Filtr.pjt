@@ -1,0 +1,40 @@
+; Code Composer Project File, Version 2.0 (do not modify or remove this line)
+
+[Project Settings]
+ProjectDir="C:\CCStudio_v3.3PLA\MyProjects\cwiczenie6\Filtr\"
+ProjectType=Executable
+CPUFamily=TMS320C62XX
+Tool="Compiler"
+Tool="CustomBuilder"
+Tool="DspBiosBuilder"
+Tool="Linker"
+Config="Debug"
+Config="Release"
+
+[Source Files]
+Source="..\Support\c6713dskinit.c"
+Source="..\Support\csl6713.lib"
+Source="..\Support\dsk6713bsl.lib"
+Source="..\Support\rts6700.lib"
+Source="..\Support\Vectors_intr.asm"
+Source="fir2.c"
+Source="..\Support\C6713dsk.cmd"
+
+["Compiler" Settings: "Debug"]
+Options=-g -fr"$(Proj_dir)\Debug" -d"CHIP_6713" --mem_model:data=far
+
+["Compiler" Settings: "Release"]
+Options=-o3 -fr"$(Proj_dir)\Release"
+
+["Linker" Settings: "Debug"]
+Options=-c -m".\Debug\Filtr.map" -o".\Debug\Filtr.out" -stack400 -w -x
+
+["Linker" Settings: "Release"]
+Options=-c -m".\Release\Filtr.map" -o".\Release\Filtr.out" -w -x
+
+["..\Support\C6713dsk.cmd" Settings: "Debug"]
+LinkOrder=1
+
+["..\Support\C6713dsk.cmd" Settings: "Release"]
+LinkOrder=1
+

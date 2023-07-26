@@ -1,0 +1,6 @@
+﻿  MENU.cpp
+C:\Users\barto\OneDrive\Pulpit\Project_EQ\GUI_EQ\MENU.cpp(8,1): warning C4829: Możliwe niepoprawne parametry funkcji main. Rozważ użycie "int main(Platform::Array<Platform::String^>^ argv)"
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generowanie kodu...
+  MENU.obj : napotkano moduł MSIL; konsolidowanie przyrostowe jest wyłączone dla modułów MSIL; zostanie wykonana pełna konsolidacja
+  GUI_EQ.vcxproj -> C:\Users\barto\OneDrive\Pulpit\Project_EQ\GUI_EQ\Debug\GUI_EQ.exe

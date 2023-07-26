@@ -1,0 +1,8 @@
+C:\Users\barto\source\repos\GUI_EQ\Debug\GUI_EQ.vcxproj.AssemblyReference.cache
+C:\Users\barto\source\repos\GUI_EQ\Debug\GUIEQ.MENU.resources
+C:\Users\barto\source\repos\GUI_EQ\Debug\GUI_EQ.vcxproj.GenerateResource.cache
+C:\Users\barto\source\repos\GUI_EQ\Debug\GUI_EQ.exe
+C:\Users\barto\OneDrive\Pulpit\Project_EQ\GUI_EQ\Debug\GUI_EQ.vcxproj.AssemblyReference.cache
+C:\Users\barto\OneDrive\Pulpit\Project_EQ\GUI_EQ\Debug\GUIEQ.MENU.resources
+C:\Users\barto\OneDrive\Pulpit\Project_EQ\GUI_EQ\Debug\GUI_EQ.vcxproj.GenerateResource.cache
+C:\Users\barto\OneDrive\Pulpit\Project_EQ\GUI_EQ\Debug\GUI_EQ.exe

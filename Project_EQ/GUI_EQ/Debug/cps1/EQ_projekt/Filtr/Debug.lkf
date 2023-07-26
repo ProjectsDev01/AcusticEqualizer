@@ -1,0 +1,8 @@
+-z -c -m"./Debug/Filtr.map" -o"./Debug/Filtr.out" -stack400 -w -x -i"C:/CCStudio_v3.3PLA/C6000/csl/lib" -i"C:/CCStudio_v3.3PLA/C6000/xdais/lib" -i"C:/CCStudio_v3.3PLA/bios_5_33_05/packages/ti/bios/lib" -i"C:/CCStudio_v3.3PLA/bios_5_33_05/packages/ti/rtdx/lib/c6000" -i"C:/CCStudio_v3.3PLA/C6000/cgtools/lib"
+"C:\CCStudio_v3.3PLA\Project_EQ\GUI_EQ\Debug\cps1\EQ_projekt\Support\C6713dsk.cmd"
+"C:\CCStudio_v3.3PLA\Project_EQ\GUI_EQ\Debug\cps1\EQ_projekt\Filtr\Debug\c6713dskinit.obj"
+"C:\CCStudio_v3.3PLA\Project_EQ\GUI_EQ\Debug\cps1\EQ_projekt\Filtr\Debug\fir2.obj"
+"C:\CCStudio_v3.3PLA\Project_EQ\GUI_EQ\Debug\cps1\EQ_projekt\Filtr\Debug\Vectors_intr.obj"
+"C:\CCStudio_v3.3PLA\Project_EQ\GUI_EQ\Debug\cps1\EQ_projekt\Support\csl6713.lib"
+"C:\CCStudio_v3.3PLA\Project_EQ\GUI_EQ\Debug\cps1\EQ_projekt\Support\dsk6713bsl.lib"
+"C:\CCStudio_v3.3PLA\Project_EQ\GUI_EQ\Debug\cps1\EQ_projekt\Support\rts6700.lib"
